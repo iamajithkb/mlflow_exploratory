@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/iamaj/PycharmProjects/mlflow_demo1/myfolder/795692663534002369/420c0de5671e481e85706a1ab431fdac/artifacts
+end_time: 1704883679642
+entry_point_name: ''
+experiment_id: '795692663534002369'
+lifecycle_stage: active
+run_id: 420c0de5671e481e85706a1ab431fdac
+run_name: trackto_myfolder
+run_uuid: 420c0de5671e481e85706a1ab431fdac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704883672947
+status: 3
+tags: []
+user_id: iamaj

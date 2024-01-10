@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/iamaj/PycharmProjects/mlflow_demo1/mlruns/182365095855739803/b4a5696902f9496f82d3d12c2c11cca1/artifacts
+end_time: 1704883342587
+entry_point_name: ''
+experiment_id: '182365095855739803'
+lifecycle_stage: active
+run_id: b4a5696902f9496f82d3d12c2c11cca1
+run_name: sneaky-midge-934
+run_uuid: b4a5696902f9496f82d3d12c2c11cca1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704882053789
+status: 3
+tags: []
+user_id: iamaj
